@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Projects related to web developement.
-- 🌱 I’m currently learning React and backend.
+- 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on MERN Projects
 - 📫 How to reach me:https://www.linkedin.com/in/tanisha-bansal-b392a0216
 - 😄 Pronouns: SHE/HER
