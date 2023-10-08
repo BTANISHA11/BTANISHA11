@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on MERN Projects
 - 📫 How to reach me:https://www.linkedin.com/in/tanishabansal110902
-- - 📫 Contact Me :  **tanishab130@gmail.com**
+- 📫 Contact Me :  **tanishab130@gmail.com**
 - 🤪 Portfolio Website : https://my-personal-portfolio-website-gamma.vercel.app/
 - 😄 Pronouns: SHE/HER
 
