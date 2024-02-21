@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Projects related to Web developement and Machine Learning.
+- 🔭 I’m currently working on Projects related to Machine Learning and Web Developement .
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on MERN Projects and Machine Learning Projects.
 - 📫 How to reach me:https://www.linkedin.com/in/tanishabansal110902
