@@ -34,3 +34,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=BTANISHA11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ![Jatin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BTANISHA11&theme=merko)
+
+[![BTANISHA11's GitHub | Dependencies](https://stats.quine.sh/BTANISHA11/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=BTANISHA11)
