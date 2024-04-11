@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Projects related to Machine Learning and Web Developement .
 - 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on MERN Projects and Machine Learning Projects.
+- 👯 I’m looking to collaborate on Data Science and Machine Learning Projects.
 - 📫 How to reach me:https://www.linkedin.com/in/tanishabansal110902
 - 📫 Contact Me :  **tanishab130@gmail.com**
 - 🤪 Portfolio Website : https://my-personal-portfolio-website-gamma.vercel.app/
