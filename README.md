@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects.
 - 📫 How to reach me:https://www.linkedin.com/in/tanishabansal110902
 - 📫 Contact Me :  **tanishab130@gmail.com**
-- 🤪 Portfolio Website : https://my-personal-portfolio-website-gamma.vercel.app/
+- 🤪 Portfolio Website : (https://tanishaportfolio.vercel.app/)
 - 😄 Pronouns: SHE/HER
 
 <h1>🫥Connect with Me</h1>
